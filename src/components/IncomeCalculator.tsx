@@ -19,7 +19,7 @@ const IncomeCalculator = () => {
         <p className="mt-4 text-gray-600">
           That free time could be bringing in <strong className="font-bold">thousands</strong> of dollars — without any extra work or effort.
         </p>
-        <p className="mt-4 text-lg font-semibold text-blue-500">That's Nexook.</p>
+        <p className="mt-4 text-lg font-semibold text-blue-500">Thats Nexook.</p>
         <p className="mt-4 text-gray-600">
           So, just how much more could you earn every week... just sharing your skills and passions?
         </p>
